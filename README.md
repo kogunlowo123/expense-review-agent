@@ -47,6 +47,11 @@ Expense review agent that validates expense reports against company policy, flag
 
 ## Architecture
 
+![7-Layer Architecture](docs/diagrams/architecture-7-layer.png)
+
+*Where RAG sits in the stack — the 7-layer enterprise AI agent architecture.*
+
+
 ```
 expense-review-agent/
 │
